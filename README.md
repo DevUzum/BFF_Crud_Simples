@@ -1,6 +1,4 @@
-# BFF_Crud_Simples
-
-# Objetivo:
+# BFF_Crud_Simples - Objetivo:
 
 O principal objetivo é criar um CRUD utilizando Angular 16 + Angular Material + Bootstrap; fazendo o consumo das APIs deste projeto.
 
