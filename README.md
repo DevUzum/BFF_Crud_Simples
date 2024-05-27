@@ -2,18 +2,18 @@
 
 O principal objetivo é criar um CRUD utilizando Angular 16 + Angular Material + Bootstrap; fazendo o consumo das APIs deste projeto.
 
-#Sobre:
+# Sobre:
 
-#Arquitetura: 
+# Arquitetura: 
 Nenhuma.
 
-#Design Pattern: 
+# Design Pattern: 
 Nenhum.
 
-#ORM: 
+# ORM: 
 Entity Framework.
 
-#Dependências: 
+# Dependências: 
 <PackageReference Include="EntityFramework" Version="6.4.4" />
 <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.0" />
 <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.1" />
