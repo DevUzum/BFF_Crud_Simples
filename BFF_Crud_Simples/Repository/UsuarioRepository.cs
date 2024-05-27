@@ -4,6 +4,7 @@ using BFF_Crud_Simples.Repository.Interface;
 
 namespace BFF_Crud_Simples.Repository
 {
+    // Aqui a gente chama o Contexto para atualizar diretamente usando os comandos dele.
     public class UsuarioRepository : IUsuarioRepository
     {
         private CrudContext _crudContext;

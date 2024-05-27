@@ -2,6 +2,7 @@
 
 namespace BFF_Crud_Simples.Repository.Interface
 {
+    // Interfacezinha padrão
     public interface IUsuarioRepository
     {
         void AddAsync(Usuario usuario, CancellationToken cancellationToken);

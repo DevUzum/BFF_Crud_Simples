@@ -3,20 +3,13 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BFF_Crud_Simples.Model
 {
+    // Entidade simples, sem acesso direto as propriedades e acessando apenas por meio de construtor ou métodos.
+    // O construtor vazio é por conta de um erro chato que ocorre, é possível burlar esse erro, porém fiquei com preguiça hahaha
     public class Usuario
     {
         public Usuario()
         {
             
-        }
-
-        public Usuario(int id, string nome, int idade, string genero, string nacionalidade)
-        {
-            Id = id;
-            Nome = nome;
-            Idade = idade;
-            Genero = genero;
-            Nacionalidade = nacionalidade;
         }
 
         public Usuario(string nome, int idade, string genero, string nacionalidade)

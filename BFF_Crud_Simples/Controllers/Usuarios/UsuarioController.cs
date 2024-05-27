@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BFF_Crud_Simples.Controllers.Usuarios
 {
+    // Controller multi tarefas, aqui é realizada a integração com o DTO, Entidade e Repositório.
+    // Poderia ter colocado isso em uma Service ou Handler, mas preferi poupar esforço pois é um projeto com outro foco.
     [ApiController]
     [Route("api/cliente")]
     public class UsuarioController : ControllerBase
