@@ -1,6 +1,6 @@
 🌟 BFF_Crud_Simples \
 🎯 Objetivo \
-O principal objetivo é criar um CRUD utilizando Angular 17, Angular Material e Bootstrap, fazendo o consumo das APIs deste projeto. \
+O principal objetivo é criar um CRUD utilizando Angular 17, Angular Material e Bootstrap, fazendo o consumo das APIs deste projeto.
 
 📖 Sobre \
 🏗️ Arquitetura \
