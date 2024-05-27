@@ -4,13 +4,13 @@ O principal objetivo é criar um CRUD utilizando Angular 16, Angular Material e 
 
 📖 Sobre \
 🏗️ Arquitetura \
-Nenhuma. \
+Nenhuma \
 
 🧩 Design Pattern \
-Nenhum. \
+Nenhum \
 
 📚 ORM \
-Entity Framework. \
+Entity Framework \
 
 📦 Dependências \
 EntityFramework - Version="6.4.4" \
